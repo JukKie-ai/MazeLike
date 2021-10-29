@@ -1,0 +1,15 @@
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\bin\Debug\netstandard2.0\MazeLike.deps.json
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\bin\Debug\netstandard2.0\MazeLike.dll
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\bin\Debug\netstandard2.0\ref\MazeLike.dll
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\bin\Debug\netstandard2.0\MazeLike.pdb
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MazeLike.csproj.AssemblyReference.cache
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MazeLike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MazeLike.AssemblyInfoInputs.cache
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MazeLike.AssemblyInfo.cs
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MazeLike.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MazeLike.dll
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\ref\MazeLike.dll
+C:\Users\Nikola Tesla\source\repos\MazeLike\MazeLike\MazeLike\obj\Debug\netstandard2.0\MazeLike.pdb
